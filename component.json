@@ -15,5 +15,5 @@
   "styles": [
     "css/prettyPhoto.css"
   ],
-  "main": "js/jquery.infinitescroll.js"
+  "main": "js/jquery.prettyphoto.js"
 }
