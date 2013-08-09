@@ -905,7 +905,7 @@
 	  var results = regex.exec( url );
 	  return ( results == null ) ? "" : results[1];
 	}
-	
+  $.fn.prettyPhoto();
 })(jQuery);
 
 var pp_alreadyInitialized = false; // Used for the deep linking to make sure not to call the same function several times.
