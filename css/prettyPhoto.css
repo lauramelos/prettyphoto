@@ -338,28 +338,28 @@ margin: 3px 10px 0 0;
 }
 
 .pp_nav p {
-  float: left;
-  margin: 2px 4px;
-  white-space: nowrap;
+float: left;
+margin: 2px 4px;
+white-space: nowrap;
 }
 
 .pp_nav .pp_play,
 .pp_nav .pp_pause {
-  float: left;
-  margin-right: 4px;
-  text-indent: -10000px;
+float: left;
+margin-right: 4px;
+text-indent: -10000px;
 }
 
 a.pp_arrow_previous,
 a.pp_arrow_next {
-  display: block;
-  float: left;
-  height: 15px;
-  margin-top: 3px;
-  overflow: hidden;
-  text-indent: -10000px;
-    width: 14px;
-  }
+display: block;
+float: left;
+height: 15px;
+margin-top: 3px;
+overflow: hidden;
+text-indent: -10000px;
+  width: 14px;
+}
 
 .pp_hoverContainer {
 position: absolute;
@@ -483,8 +483,8 @@ position: absolute;
 right: 20px;
 }
 * html .pp_bottom .pp_middle {
-  left: 0;
-  position: static;
+left: 0;
+position: static;
 }
 
 .pp_bottom .pp_right {
