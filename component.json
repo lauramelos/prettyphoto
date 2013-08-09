@@ -15,5 +15,5 @@
   "styles": [
     "css/prettyPhoto.css"
   ],
-  "main": "js/jquery.prettyphoto.js"
+  "main": "js/jquery.prettyPhoto.js"
 }

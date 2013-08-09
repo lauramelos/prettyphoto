@@ -1,4 +1,4 @@
-build: components js/jquery.prettyphoto.js
+build: components js/jquery.prettyPhoto.js
 	  @component build --dev
 
 components: component.json
